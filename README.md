@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kaeyscott
-- 👀 I’m interested in ... Data Analytics 
-- 🌱 I’m currently learning ... SQL and PowerBI
-- 💞️ I’m looking to collaborate on ... PowerBI
-- 📫 How to reach me ...
+- 👀 I’m A ... Data Analyst  
+- 🌱 I’m currently learning ... Python and R
+- 💞️ I’m looking to collaborate on ... Data Analysis
+- 📫 How to reach me ... dominionogunjinrin@gmail.com
 
 
 
